@@ -1,0 +1,8 @@
+#EXTM3U
+
+#EXTINF:-1,HOT FM
+http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/chunklist_w298241760_b1500000_slesp.m3u8
+#EXTINF:-1,FOX
+http://petu15.pedromo.me/live/foxlatino/index.m3u8
+#EXTINF:-1,FOX 2
+http://petu15.pedromo.me/live/foxlatino/index.m3u8?token=i_obrR7_vvz7_I4gBtGNZw&expires=1520990970
