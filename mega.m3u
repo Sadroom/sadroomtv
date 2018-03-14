@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:-1,HOT FM
+http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/chunklist_w298241760_b1500000_slesp.m3u8
+#EXTINF:-1,UDN
+http://51.15.222.188/live/udn/index.m3u8
